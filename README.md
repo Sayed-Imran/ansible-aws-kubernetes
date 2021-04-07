@@ -7,7 +7,9 @@ In this repo there are two Ansible roles:
 There are files:
 ### daemon.json
 ### k8s.conf
+
 daemon.json file is used to set the driver of Docker Engine as systemd
+
 k8s.conf file set the iptables for the configuration of the K8s Cluster
 
 There's a playbook 
